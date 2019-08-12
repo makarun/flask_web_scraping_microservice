@@ -1,0 +1,4 @@
+virtual_env/
+pictures/
+__pycache__/
+db.sqlite3
